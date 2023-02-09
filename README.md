@@ -1,2 +1,2 @@
 # python-ml-notes
-Notes and code examples on the Python Machine Learning book by Sebaastian Raschka
+Notes and code examples on the book Python Machine Learning by Sebaastian Raschka
